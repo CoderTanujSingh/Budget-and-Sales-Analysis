@@ -176,7 +176,9 @@ Screenshots of dashboard pages
 
 Full list of custom DAX measures
 
-<img width="1353" height="805" alt="Budget and Sales Analysis" src="https://github.com/user-attachments/assets/d8a64ac2-ddc4-41c6-91a8-999d29a0e2e7" />
+<img width="1336" height="747" alt="image" src="https://github.com/user-attachments/assets/9991d377-21ae-41a6-a732-cd9c7d39eeea" />
+<img width="401" height="244" alt="image" src="https://github.com/user-attachments/assets/dbc3ebee-7571-4136-b21d-b77f135d7f95" /> <img width="401" height="244" alt="image" src="https://github.com/user-attachments/assets/67c0621b-e9d7-443b-8f66-874285b2d98c" />
+
 
 
 
